@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nome": "Sem nome",
+        "tipo": "A definir",
+        "estado": "sss",
+        "origem": -1,
+        "descricao": "www",
+        "imagem_path": ""
+    },
+    {
+        "id": 2,
+        "nome": "Sem nome",
+        "tipo": "A definir",
+        "estado": "rereee",
+        "origem": -1,
+        "descricao": "rrrr",
+        "imagem_path": ""
+    }
+]

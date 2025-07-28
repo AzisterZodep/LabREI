@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "nome": "1534 DELL",
+        "tipo": "PC",
+        "origem": "ETA",
+        "estado": "Desativo",
+        "pecas": [],
+        "descricao": "ssssss"
+    },
+    {
+        "id": 2,
+        "nome": "1535 DELLa",
+        "tipo": "A definir",
+        "origem": "A definir",
+        "estado": "A definir",
+        "pecas": [],
+        "descricao": "Rec\u00e9m-adicionado"
+    },
+    {
+        "id": 4,
+        "nome": "Sem nome",
+        "tipo": "A definir",
+        "origem": "A definir",
+        "estado": "A definir",
+        "pecas": [],
+        "descricao": "Rec\u00e9m-adicionado"
+    },
+    {
+        "id": 5,
+        "nome": "Sem nome",
+        "tipo": "A definir",
+        "origem": "A definir",
+        "estado": "A definir",
+        "pecas": [],
+        "descricao": "wewewr"
+    },
+    {
+        "id": 6,
+        "nome": "Sem nome",
+        "tipo": "A definir",
+        "origem": "r3",
+        "estado": "A definir",
+        "pecas": [],
+        "descricao": "rtdrd"
+    },
+    {
+        "id": 7,
+        "nome": "Sem nome",
+        "tipo": "A definir",
+        "origem": "A definir",
+        "estado": "A definir",
+        "pecas": [],
+        "descricao": "wdad"
+    }
+]

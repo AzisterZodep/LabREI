@@ -1,0 +1,2 @@
+main_address:127.0.0.1:5000
+sister_branch:Rio:127.0.0.1:7000

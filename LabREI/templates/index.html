@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inventário de Computadores</title>
+    <link rel="stylesheet" href="http://192.168.1.210/metro.css"/>
+</head>
+<body>
+    <div class="panel">
+        <h2>LabREI:</h2>
+        <div id="pecas-list">
+            <h2>Peças</h2>
+        </div>
+        <div id="computadores-list">
+            <h2>Computadores</h2>
+        </div>
+        <button class="tile" onclick="fetchPecas();fetchComputadores()">Atualizar</button>
+    </div>
+    <div class="footer">
+      <a class="footerb" target="_blank">| Lin'Fost União Tecnologica | Petrobras 2025</a>
+    </div>
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>
